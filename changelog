@@ -1,7 +1,12 @@
-07/03/2023
-- fixed bugs
-- updated some of the ui
-- added blockhit toggle (dosn`t work for now)
-- double click on user icon to see your account details
-- added Discord RPC
-- added config system
+07/03/2023 (beta build)
++ fixed bugs
++ updated some of the ui
++ added blockhit toggle (dosn`t work for now)
++ double click on user icon to see your account details
++ added Discord RPC
++ added config system
+
+15/03/2023 (beta build)
++ added new ui switch (premium users only)
++ optimized clicker
+- for now blockhit is removed! it will be back soon
