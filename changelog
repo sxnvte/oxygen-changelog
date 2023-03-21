@@ -11,3 +11,10 @@
 + optimized clicker
 - for short amount of time blockhit is removed!
 (btw: new ui will have some new features!)
+
+21/03/2023 (beta build, mostly new ui changes)
++ updated new ui
++ added better config system to new ui
++ added statistics for new ui
+- removed internal menu switch on legacy ui
+- removed 1.9+ clicker switch
